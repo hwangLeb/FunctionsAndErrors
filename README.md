@@ -1,7 +1,7 @@
 # FUNCTIONS AND ERRORS
 This assessment tackles the require, assert and the revert in Module 1 of Avalanche in Metacraters.
 
-#DESCRIPTION
+# DESCRIPTION
 Require - is a condition that needs to be met in order for the function to continue. The function will execute again and any state modifications performed during the execution will be undone if the condition evaluates to false.
 Assert - It's used to seek for conditions that need never to evaluate to untrue. Typically, it's utilized for checking for static conditions or internal errors.
 Revert - is used to revert the current transaction with an optional error message.
